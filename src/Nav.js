@@ -19,6 +19,12 @@ function Nav() {
     		<Link style={navstyle} to='Year'>
     			<li>Entire Year</li>
     		</Link>
+            <Link style={navstyle} to='Excel'>
+                <li>Excel</li>
+            </Link>
+            <Link style={navstyle} to='Add'>
+                <li>Add Appraisal</li>
+            </Link>
     	</ul>
     </nav>
   );

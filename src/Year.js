@@ -141,7 +141,13 @@ class Year extends React.Component {
     return <div className="body">{rows}</div>;
   }
 
-
+  // showYear = () => {
+  //   for(let i = 0; i < 12; i++){
+  //     this.renderHeaderx(i);
+  //     this.renderDays(i);
+  //     this.renderCellsx(i);
+  //   }
+  // }
 
   onDateClick = day => {
     this.setState({

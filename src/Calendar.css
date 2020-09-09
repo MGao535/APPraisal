@@ -181,9 +181,27 @@ main {
   transition: 0.5s ease-out;
 }
 
-.calendar .body .selected {
-  border-left: 10px solid transparent;
-  border-image: linear-gradient(45deg, #1a8fff 0%,#53cbf1 40%);
+.calendar .body .day {
+  border-left: 10px solid;
+  border-image: linear-gradient(135deg, #1a8fff 0%,#53cbf1 40%);
+  border-image-slice: 1;
+}
+
+.calendar .body .app {
+  border-left: 10px solid;
+  border-image: linear-gradient(135deg, #1aff7d 0%,#1aff1a 40%);
+  border-image-slice: 1;
+}
+
+.calendar .body .pre {
+  border-left: 10px solid;
+  border-image: linear-gradient(135deg, #ff1a8d 0%,#ff1ae8 40%);
+  border-image-slice: 1;
+}
+
+.calendar .body .ready {
+  border-left: 10px solid;
+  border-image: linear-gradient(135deg, #ffb61a 0%,#ff7d1a 40%);
   border-image-slice: 1;
 }
 

@@ -5,7 +5,7 @@ import './App.css';
 
 function Home() {
 
-    const [username, setUsername] = useState("");
+  const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
   const [showRegister, setShowRegister] = useState(false);
   const [matchPopup, setMatchPopup] = useState(false);

@@ -30,7 +30,7 @@ const Register = (props) => {
             <input className="standard_input" type="password" value={new_password} onChange={f => setPassword(f.target.value)} placeholder="Password"/>
         </label>
         <p></p>
-        <input className="Button" type="submit" value="Sign up!" onClick={event => window.location.href='/'} />
+        <input className="Button" type="submit" value="Sign up!" onClick={event => window.location.href='/New'} />
         <button className="Button" onClick={event => window.location.href='/'}>Go back</button>
       </form>
     </div>
