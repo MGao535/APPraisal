@@ -10,4 +10,4 @@ This app has a 3 month calendar meant for one appraisal. Appraisal dates will be
 
 
 ## Sample of Website
-![Calendar] (https://user-images.githubusercontent.com/35829105/93823644-cbb85200-fc27-11ea-9fc6-71bf1da13494.png)
+![Calendar](https://user-images.githubusercontent.com/35829105/93823644-cbb85200-fc27-11ea-9fc6-71bf1da13494.png)
