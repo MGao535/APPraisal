@@ -7,3 +7,7 @@ This app is meant for CMMI consultants to be able to keep track of their apprais
 ## Features
 
 This app has a 3 month calendar meant for one appraisal. Appraisal dates will be marked on the calendar and each type of appraisal will be in a different color. There also is a add page that allows the consultant to add an appraisal. There also is a year calendar that shows the entire year. An edit page is planned to be made where the consultant can edit appraisals by selecting a client from a list. 
+
+
+## Sample of Website
+![Calendar] (https://user-images.githubusercontent.com/35829105/93823644-cbb85200-fc27-11ea-9fc6-71bf1da13494.png)
